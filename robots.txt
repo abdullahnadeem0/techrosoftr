@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://abdullahnadeem0.github.io/abdullah-portfolios/sitemap.xml
